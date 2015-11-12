@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TMIS</string>
+
+    <string name="hello_world">President Obama has partially succeeded in rising above partisanship to promote progressive causes on the domestic front and the cause of peace externally. However, in an age of extremes, his moderation has not allowed him to rise up to be a statesman.</string>
+    <string name="action_settings">Settings</string>
+    <string name="scroll1">This video is for presentation purpose only.</string>
+    <string name="scroll2">The content in this video is a combination of Promotional, Commercial, Social Awareness, Government Schemes and Entertainment content.</string>
+    <string name="scroll3">The content of the scrolls varies from Route Information, Passenger Information, Commercial Content, Sports Updates and Weather.</string>
+</resources>
